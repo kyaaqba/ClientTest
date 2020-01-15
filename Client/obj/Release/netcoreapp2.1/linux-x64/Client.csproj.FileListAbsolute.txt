@@ -1,0 +1,14 @@
+C:\Users\v-kayaaq\source\repos\Client\Client\bin\Release\netcoreapp2.1\linux-x64\libhostpolicy.so
+C:\Users\v-kayaaq\source\repos\Client\Client\bin\Release\netcoreapp2.1\linux-x64\libhostfxr.so
+C:\Users\v-kayaaq\source\repos\Client\Client\bin\Release\netcoreapp2.1\linux-x64\Client
+C:\Users\v-kayaaq\source\repos\Client\Client\bin\Release\netcoreapp2.1\linux-x64\Client.deps.json
+C:\Users\v-kayaaq\source\repos\Client\Client\bin\Release\netcoreapp2.1\linux-x64\Client.runtimeconfig.json
+C:\Users\v-kayaaq\source\repos\Client\Client\bin\Release\netcoreapp2.1\linux-x64\Client.runtimeconfig.dev.json
+C:\Users\v-kayaaq\source\repos\Client\Client\bin\Release\netcoreapp2.1\linux-x64\Client.dll
+C:\Users\v-kayaaq\source\repos\Client\Client\bin\Release\netcoreapp2.1\linux-x64\Client.pdb
+C:\Users\v-kayaaq\source\repos\Client\Client\obj\Release\netcoreapp2.1\linux-x64\Client.csprojAssemblyReference.cache
+C:\Users\v-kayaaq\source\repos\Client\Client\obj\Release\netcoreapp2.1\linux-x64\Client.csproj.CoreCompileInputs.cache
+C:\Users\v-kayaaq\source\repos\Client\Client\obj\Release\netcoreapp2.1\linux-x64\Client.AssemblyInfoInputs.cache
+C:\Users\v-kayaaq\source\repos\Client\Client\obj\Release\netcoreapp2.1\linux-x64\Client.AssemblyInfo.cs
+C:\Users\v-kayaaq\source\repos\Client\Client\obj\Release\netcoreapp2.1\linux-x64\Client.dll
+C:\Users\v-kayaaq\source\repos\Client\Client\obj\Release\netcoreapp2.1\linux-x64\Client.pdb
