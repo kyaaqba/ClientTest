@@ -42,8 +42,8 @@ namespace Client
                 // for the socket. This example 
                 // uses port 11111 on the local 
                 // computer. 
-                //IPHostEntry ipHost = Dns.GetHostEntry(Dns.GetHostName());
-                IPAddress ipAddr = IPAddress.Parse(ip);
+                IPHostEntry ipHost = Dns.GetHostEntry(Dns.GetHostName());
+                IPAddress ipAddr = ipHost.AddressList[0];
                 IPEndPoint localEndPoint = new IPEndPoint(ipAddr, 11111);
 
                 // Creation TCP/IP Socket using 

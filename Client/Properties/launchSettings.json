@@ -2,7 +2,7 @@
   "profiles": {
     "Client": {
       "commandName": "Project",
-      "commandLineArgs": "127.0.0.1"
+      "commandLineArgs": "fe80::b903:734e:e210:6a9d%19"
     }
   }
 }
