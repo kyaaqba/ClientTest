@@ -43,7 +43,8 @@ namespace Client
                 // uses port 11111 on the local 
                 // computer. 
                 IPHostEntry ipHost = Dns.GetHostEntry(Dns.GetHostName());
-                IPAddress ipAddr = ipHost.AddressList[0];
+                //IPAddress ipAddr = ipHost.AddressList[0];
+                IPAddress ipAddr = IPAddress.Parse(ip);
                 IPEndPoint localEndPoint = new IPEndPoint(ipAddr, 11111);
 
                 // Creation TCP/IP Socket using 
